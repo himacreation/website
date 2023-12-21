@@ -58,7 +58,7 @@
               </div>
             </div>
             <div class="footer-copy text-center">
-              <span class="copy">(c) 2017 site by </span><span class="corp ttu">Hima Creation</span>              </div>
+              <span class="copy">(c) 2020 site by </span><span class="corp ttu">Hima Creation</span>              </div>
             </div>
           </div>
         </div>
