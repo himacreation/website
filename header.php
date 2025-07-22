@@ -1,6 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="">
 <head>
+  <script src="https://analytics.ahrefs.com/analytics.js" data-key="aq8eG3UhmM1Z342/bWzPSw" async></script>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="description" content="">
